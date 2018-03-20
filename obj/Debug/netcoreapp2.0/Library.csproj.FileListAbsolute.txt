@@ -1,0 +1,11 @@
+C:\Users\Leslie.ramirez\Desktop\Curso Asp.Net Core\proyectos\Library\bin\Debug\netcoreapp2.0\Library.deps.json
+C:\Users\Leslie.ramirez\Desktop\Curso Asp.Net Core\proyectos\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.json
+C:\Users\Leslie.ramirez\Desktop\Curso Asp.Net Core\proyectos\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.dev.json
+C:\Users\Leslie.ramirez\Desktop\Curso Asp.Net Core\proyectos\Library\bin\Debug\netcoreapp2.0\Library.dll
+C:\Users\Leslie.ramirez\Desktop\Curso Asp.Net Core\proyectos\Library\bin\Debug\netcoreapp2.0\Library.pdb
+C:\Users\Leslie.ramirez\Desktop\Curso Asp.Net Core\proyectos\Library\obj\Debug\netcoreapp2.0\Library.csprojResolveAssemblyReference.cache
+C:\Users\Leslie.ramirez\Desktop\Curso Asp.Net Core\proyectos\Library\obj\Debug\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Leslie.ramirez\Desktop\Curso Asp.Net Core\proyectos\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+C:\Users\Leslie.ramirez\Desktop\Curso Asp.Net Core\proyectos\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.cs
+C:\Users\Leslie.ramirez\Desktop\Curso Asp.Net Core\proyectos\Library\obj\Debug\netcoreapp2.0\Library.dll
+C:\Users\Leslie.ramirez\Desktop\Curso Asp.Net Core\proyectos\Library\obj\Debug\netcoreapp2.0\Library.pdb
