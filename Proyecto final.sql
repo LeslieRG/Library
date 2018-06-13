@@ -29,4 +29,3 @@ CREATE TABLE [Books]
 	CONSTRAINT FK_BooksAuthors FOREIGN KEY ([Id_Author]) REFERENCES [Authors]([Id_Author])
 );
 
-drop database Library;
