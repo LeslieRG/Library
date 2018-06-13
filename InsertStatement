@@ -1,3 +1,5 @@
+\---Inserting information into the table*/
+
 USE Library
 
 INSERT INTO [Authors]
@@ -145,7 +147,7 @@ VALUES
 ( 
 	4,
 	'Don quijote de la Mancha', 
-	'Novela mas influyente en la lengua española ', 
+	'Novela mas influyente en la lengua espaÃ±ola ', 
 	'Adventura', 
 	'Novela', 
 	'1605', 
